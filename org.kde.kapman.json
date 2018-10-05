@@ -11,7 +11,8 @@
         "--socket=wayland",
         "--socket=pulseaudio",
         "--device=dri",
-        "--filesystem=host"
+        "--filesystem=host",
+        "--filesystem=xdg-config/kdeglobals:ro"
     ],
     "modules": [
         {
