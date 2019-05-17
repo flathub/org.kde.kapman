@@ -19,8 +19,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/applications/19.04.0/src/libkdegames-19.04.0.tar.xz",
-                    "sha256": "2965e4a313609f6408becb13e54e26bfe14b37b58e7737e051129896f6e8bcd3"
+                    "url": "https://download.kde.org/stable/applications/19.04.1/src/libkdegames-19.04.1.tar.xz",
+                    "sha256": "a16baa2818ab6f553d9c2635b252530538812787c50f9fbc0d18781943150e5c"
                 }
             ]
         },
@@ -30,8 +30,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/applications/19.04.0/src/kapman-19.04.0.tar.xz",
-                    "sha256": "f77dd3210bcdfb2d424f7a919848e25a4b4ae994d74b59111f352e41c2086324"
+                    "url": "https://download.kde.org/stable/applications/19.04.1/src/kapman-19.04.1.tar.xz",
+                    "sha256": "7714a0cbd8e24f3ce46679d1f16d690c8bc62a988f0b3175095e0f0c23ce1400"
                 }
             ]
         }
