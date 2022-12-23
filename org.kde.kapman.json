@@ -36,8 +36,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/22.08.3/src/kapman-22.08.3.tar.xz",
-                    "sha256": "379d0c108d9e2d1d2ea73909cae37bf464b2d9b93176586ec570d51e1b2381b8",
+                    "url": "https://download.kde.org/stable/release-service/22.12.0/src/kapman-22.12.0.tar.xz",
+                    "sha256": "d4b2f80394ac0fd611a9d3ff0fe19508fbdc178eefdb0599c48b8edd73e0c1f2",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
